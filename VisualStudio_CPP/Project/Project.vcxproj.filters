@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\algo_implement">
       <UniqueIdentifier>{b653c24a-4aa6-4672-806a-eb4cd42db33d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\30Days_of_code">
+      <UniqueIdentifier>{8c68e2c6-aa6d-45e1-8ad7-a74926f5ab1d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="02_birthdayCake.cpp">
@@ -56,6 +59,27 @@
     </ClCompile>
     <ClCompile Include="algo_warmup\08_time_conversion.cpp">
       <Filter>소스 파일\algo_warmup</Filter>
+    </ClCompile>
+    <ClCompile Include="30Days_of_code\01hello_world.cpp">
+      <Filter>소스 파일\30Days_of_code</Filter>
+    </ClCompile>
+    <ClCompile Include="30Days_of_code\03_intro2conditional_statement.cpp">
+      <Filter>소스 파일\30Days_of_code</Filter>
+    </ClCompile>
+    <ClCompile Include="30Days_of_code\04_classofinstance.cpp">
+      <Filter>소스 파일\30Days_of_code</Filter>
+    </ClCompile>
+    <ClCompile Include="30Days_of_code\05_review.cpp">
+      <Filter>소스 파일\30Days_of_code</Filter>
+    </ClCompile>
+    <ClCompile Include="30Days_of_code\05_review_simple.cpp">
+      <Filter>소스 파일\30Days_of_code</Filter>
+    </ClCompile>
+    <ClCompile Include="30Days_of_code\06_loops.cpp">
+      <Filter>소스 파일\30Days_of_code</Filter>
+    </ClCompile>
+    <ClCompile Include="30Days_of_code\07_dictionaries_maps.cpp">
+      <Filter>소스 파일\30Days_of_code</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
