@@ -9,4 +9,6 @@ SOURCES += \
     #cut_stick_c.c \
     #cut_stick.cpp \
     #non-divisible-subset.cpp \
-    repeated_string.cpp
+    #repeated_string.cpp \
+    #jumping_on_the_clouds.cpp
+    equalize_the_array.cpp
