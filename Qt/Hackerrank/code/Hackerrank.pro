@@ -11,4 +11,7 @@ SOURCES += \
     #non-divisible-subset.cpp \
     #repeated_string.cpp \
     #jumping_on_the_clouds.cpp
-    equalize_the_array.cpp
+    #equalize_the_array.cpp
+    #biggest_is_greater.cpp
+   #nextpermutation.cpp
+    queen_attack2.cpp
